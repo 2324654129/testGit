@@ -9,5 +9,8 @@ public class Test {
         System.out.println("orderaaa");
         System.out.println("abbbaa");
         System.out.println("bbbb");
+        System.out.println("orderaaa");
+        System.out.println("bbbb");
+        System.out.println("bbbb");
     }
 }
